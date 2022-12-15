@@ -21,8 +21,12 @@ NRC: 10067
 
 Capitulo 7
 
+![image](https://user-images.githubusercontent.com/116655812/207935317-6b60ba28-3aa3-49b0-9fbd-271350e7f524.png)
+
 
 Capítulo 8
+
+![image](https://user-images.githubusercontent.com/116655812/207935431-22b3cd1a-ae7a-478c-b17e-19cc480ecfd3.png)
 
 
 
