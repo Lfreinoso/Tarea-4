@@ -233,16 +233,122 @@ Las lecturas de los voltajes son incorrectas
 
 
 
-
-
-
-
-
-
-
-
-
 - CAPÍTULO 8 (EJERCICIOS IMPARES)
+
+1.	Una fuente de voltaje tiene los valores VS  300 V y RS  50 Æ. Conviértala en una fuente de corriente equivalente.
+
+![image](https://user-images.githubusercontent.com/116655812/207922527-d90224c2-e367-4111-9269-f85ae7d95a55.png)
+
+![image](https://user-images.githubusercontent.com/116655812/207922555-5d9b0d8e-12f3-4d28-9d08-defb71536ab8.png)
+
+3. Una batería tipo D nueva tiene entre sus terminales un voltaje de 1.6 V y puede suministrar hasta 8.0 A a un cortocircuito durante muy poco tiempo. ¿Cuál es la resistencia interna de la batería?
+
+![image](https://user-images.githubusercontent.com/116655812/207922627-b5c7f8be-f698-42a5-a9c3-e6421a294779.png)
+
+5. Una fuente de corriente tiene una IS de 600 mA y una RS de 1.2 kÆ. Conviértala en una fuente de voltaje equivalente
+
+![image](https://user-images.githubusercontent.com/116655812/207922702-b212dda2-f3ae-4799-b603-8ca4861c38c1.png)
+
+7. Con el método de superposición, encuentre la corriente a través de R5 en la figura 8-69.
+
+![image](https://user-images.githubusercontent.com/116655812/207922754-2a987dab-c74e-4a32-8018-6a9eac64856b.png)
+
+![image](https://user-images.githubusercontent.com/116655812/207922785-bc2245f5-fdde-44c7-8905-f6f8e8e5ab71.png)
+
+9. Con el teorema de superposición, determine la corriente a través de R3 en la figura 8-70
+
+![image](https://user-images.githubusercontent.com/116655812/207922871-ab274b43-6676-464f-97d8-2b7ddbaff0c5.png)
+
+![image](https://user-images.githubusercontent.com/116655812/207922909-9ba947af-fc36-42f3-a41a-6dbe65ce5848.png)
+
+11. En la figura 8-72 se muestra un circuito comparador. El voltaje de entrada, VENTRADA, se compara con el voltaje de referencia, VREFERENCIA, y se genera una salida negativa si VREFERENCIA > VENTRADA; de lo contrario es positiva. El comparador no carga a una u otra entrada. Si R2 es de 1.0 kÆ, ¿cuál es el intervalo del voltaje de referencia?
+
+![image](https://user-images.githubusercontent.com/116655812/207922960-8d6a5348-ef91-4b43-8f7d-783caf1245bf.png)
+
+![image](https://user-images.githubusercontent.com/116655812/207923000-99063b9b-2bb9-44b9-b33c-ce4e2e5be2e9.png)
+
+13. Determine el voltaje del punto A al punto B en la figura 8-73.
+
+![image](https://user-images.githubusercontent.com/116655812/207923050-37ef6666-63a7-4c34-91ca-21f173d6524d.png)
+
+![image](https://user-images.githubusercontent.com/116655812/207923157-ed639822-a6aa-483f-850d-0d633d5624f7.png)
+
+17. Con el teorema de Thevenin, determine la corriente a través de la carga RL en la figura 8-77
+
+![image](https://user-images.githubusercontent.com/116655812/207923221-ce6318c4-1cfe-4acb-b71c-7e101c26dc8e.png)
+
+![image](https://user-images.githubusercontent.com/116655812/207923250-7030e532-0946-45ff-a3f1-acd39d1387a0.png)
+
+![image](https://user-images.githubusercontent.com/116655812/207923311-0951ad31-1e44-413c-ab4b-acc975aea880.png)
+
+19. Determine el equivalente de Thevenin para el circuito externo al amplificador de la figura 8-79.
+
+![image](https://user-images.githubusercontent.com/116655812/207923375-16d303f2-9dee-4956-814b-ccfe222f7915.png)
+
+![image](https://user-images.githubusercontent.com/116655812/207923395-2efdd071-503d-4c47-8599-b1bf51eb21d0.png)
+
+![image](https://user-images.githubusercontent.com/116655812/207923426-4afe3459-d744-4ce1-91a4-9c5ba1b5e157.png)
+
+*21. Determine la corriente a través del resistor de carga en el circuito puente de la figura 8-81.
+
+![image](https://user-images.githubusercontent.com/116655812/207923620-b0b83243-0f54-475e-acec-051c32a8c53b.png)
+
+![image](https://user-images.githubusercontent.com/116655812/207923635-026edb0e-4914-4d9d-af7f-b250cb5d1416.png)
+
+![image](https://user-images.githubusercontent.com/116655812/207923685-ad4b49da-e6f5-4475-af45-d206655ebde1.png)
+
+23. Para cada uno de los circuitos mostrados en la figura 8-76, determine el equivalente Norton visto por RL
+
+![image](https://user-images.githubusercontent.com/116655812/207923724-a49bf2f0-3668-4c8f-ad07-1d240223f1c4.png)
+
+![image](https://user-images.githubusercontent.com/116655812/207923789-e232dc38-a92b-4ce2-850b-0c5758775a7a.png)
+
+* 25. Con el teorema de Norton, determine el voltaje entre los extremos de R5 en la figura 8-78
+
+![image](https://user-images.githubusercontent.com/116655812/207923840-aec27fe1-25b1-4439-b1b9-530d334cd8a7.png)
+
+![image](https://user-images.githubusercontent.com/116655812/207923861-4821f9a4-8823-43cf-8873-31ee7ef505f3.png)
+
+![image](https://user-images.githubusercontent.com/116655812/207923918-e44a11cc-9892-4bb9-8691-82116b345dc2.png)
+
+27. Determine el circuito equivalente Norton para el puente que aparece en la figura 8-81 sin RL
+
+![image](https://user-images.githubusercontent.com/116655812/207923958-723ab64d-ccfb-409c-aca3-53de7227b6c8.png)
+
+![image](https://user-images.githubusercontent.com/116655812/207923994-ed429236-9305-4506-a70b-91645c267734.png)
+
+29. Aplique el teorema de Norton al circuito de la figura 8-84
+
+![image](https://user-images.githubusercontent.com/116655812/207924035-0ee77c18-6476-4e29-916b-528e3021cdb2.png)
+
+![image](https://user-images.githubusercontent.com/116655812/207924089-e20ccd81-0c03-421f-b9f2-096801ac7b41.png)
+
+31. En el circuito de la figura 8-86, determine el valor de RL para transferencia de potencia máxima
+
+![image](https://user-images.githubusercontent.com/116655812/207924139-10e6e701-7181-4740-b8a0-2064683c21df.png)
+
+![image](https://user-images.githubusercontent.com/116655812/207924175-49a20ac1-f17e-4f86-88a9-1d4d2998118c.png)
+
+33. ¿Cuáles son los valores de R4 y RTH cuando la potencia máxima se transfiere de la fuente thevenizada a la red en configuración de escalera de la figura 8-87?
+
+![image](https://user-images.githubusercontent.com/116655812/207924227-e8435d05-cc33-4920-b79c-a711175ad63e.png)
+
+![image](https://user-images.githubusercontent.com/116655812/207924260-6bb46510-bae5-4195-804e-8be2e544ec20.png)
+
+35. En la figura 8-89, convierta cada red Y en una red delta
+
+![image](https://user-images.githubusercontent.com/116655812/207924290-f309f9f5-195b-42af-abfe-da930ed79ba1.png)
+
+![image](https://user-images.githubusercontent.com/116655812/207924345-6e7874c1-3fcd-4346-be85-e9018c74a9d6.png)
+
+
+
+
+
+
+
+
+
 
 
 
