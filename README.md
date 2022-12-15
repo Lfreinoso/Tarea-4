@@ -12,10 +12,20 @@ NRC: 10067
 
 # 1. OBJETIVOS
  OBJETIVO GENERAL
-
+ 
+- Reconocer circuitos en serie y en paralelo además de aprender las características de cada uno mediante la lectura y resolución de ejercicios del libro de Floyd para que el docente una vez nos proponga los ejercicios poder identificar de que tipo es y diferenciar sus características, ademas dominar los metodos de analisis de circuitos electricos 
 
  OBJETIVOS ESPECÍFICOS
+ 
+- Identificar un circuito resistivo en serie
 
+- Determinar potencia en un circuito en serie y paralelo
+
+- Determinar la corriente a través de un circuito en serie y paralelo
+
+- Describir algunas aplicaciones básicas de circuitos en serie y paralelo
+
+- Aprender a resolver un circuito por cualquier metodo de los presentados en el capitulo 8
 
 # 2. MARCO TEÓRICO 
 
@@ -346,16 +356,6 @@ Las lecturas de los voltajes son incorrectas
 ![image](https://user-images.githubusercontent.com/116655812/207924345-6e7874c1-3fcd-4346-be85-e9018c74a9d6.png)
 
 
-
-
-
-
-
-
-
-
-
-
 # 4. VIDEO 
 
 
@@ -363,7 +363,15 @@ Las lecturas de los voltajes son incorrectas
 
 # 5. CONCLUSIONES 
 
+- Concluimos que los metodos de analisis son opciones alternativas al momento de resolver un circuito electrico y que no existe una sola forma o un solo metodo que nos sirva para hacer todo esto 
 
+- Identificamos como calcular la resistencia total de un circuito en un circuito serie-paralelo mediante el anasis de estos.
+
+- Observamos que en un circuito en serie-paralelo se aplican las mismas leyes que un circuito en paralelo o en un circuito en serie y poco a poco podemos irlo reduciendo.
+
+- Aprendimos a calcular los efectos de carga tanto en un voltímetro como en un amperímetro y vimos los efectos que estos causan en una red.
+
+- Al convertir fuentes de voltaje y corriente observamos que, aunque las fuentes son equivalentes, las corrientes y voltajes en ellas no pueden ser los mismos.
 
 # 6.BIBLIOGRAFÍA
 
